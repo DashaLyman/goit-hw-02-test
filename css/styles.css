@@ -246,7 +246,7 @@ label {
   padding: 72px 24px 24px 24px;
 }
 
-.backdrop.is-hidden .modal {
+.backdrop.is-hidden .form-container {
   transform: translate(-50%, -50%) scaleY(0);
 }
 
